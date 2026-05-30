@@ -1,0 +1,9 @@
+/* Reset base — todo o tema visual vive embutido em App.jsx
+   para manter o componente portátil e a fonte única de verdade. */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  background: #06080e;
+}
